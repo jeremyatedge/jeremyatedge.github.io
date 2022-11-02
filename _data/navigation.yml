@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  # url: /publications/
         
-  - title: "Blog Posts"
+  - title: "Learning Materials"
     url: /year-archive/
     
   - title: "CV"
