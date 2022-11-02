@@ -14,4 +14,4 @@ If you are interested in my research, feel free to contact me in email ^_^
 
 News
 ======
-* [2022.11] Personal page is set up!
+* **[2022.11]** Personal page is set up!
