@@ -22,4 +22,4 @@ FPGA
 
 AI
 ======
-* Good Understanding of CNN - [Url](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* Good Understanding of CNN - [URL](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
