@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeremy Li"
+title                    : "Jingjin (Jeremy) Li"
 title_separator          : "-"
 name                     : &name "Jingjin (Jeremy) Li"
-description              : &description "personal description"
+description              : &description "Ph.D. student at UNNC"
 url                      : https://jeremyatedge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jeremyatedge/jeremyatedge.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jingjin (Jeremy) Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student at University of Nottingham Ningbo China (UNNC), interested in FPGA, Embedded AI, and Reinforcement Learning."
+  location         : "Ningbo, Zhejiang, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jeremyatedge"
   google_plus      :
   keybase          :
   instagram        :
