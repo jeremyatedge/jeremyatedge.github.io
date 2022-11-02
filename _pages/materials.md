@@ -25,4 +25,4 @@ AI
 ======
 * Good Understanding of CNN - [URL](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * An excellent book about Reinforcement Learning (Chinese version) - [URL](https://datawhalechina.github.io/easy-rl/#/)
-* A blog focus on policy gradient in RL - [URL (English version)](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) [URL (Chinese version)](https://tomaxent.com/2019/04/14/%E7%AD%96%E7%95%A5%E6%A2%AF%E5%BA%A6%E6%96%B9%E6%B3%95/)
+* A blog focus on policy gradient in RL - [English version](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)/[Chinese version](https://tomaxent.com/2019/04/14/%E7%AD%96%E7%95%A5%E6%A2%AF%E5%BA%A6%E6%96%B9%E6%B3%95/)
