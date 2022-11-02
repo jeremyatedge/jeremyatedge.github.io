@@ -4,7 +4,7 @@ main:
   # url: /publications/
         
   - title: "Learning Materials"
-    url: /year-archive/
+    url: /materials/
     
   - title: "CV"
     url: /cv/
