@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "UTF-8"
 title                    : "Jeremy Li"
 title_separator          : "-"
 name                     : &name "Jingjin (Jeremy) Li"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : 
+  weibo            : @爱吃麻的JEREMY
   xing             :
   youtube          :
   wikipedia        :
