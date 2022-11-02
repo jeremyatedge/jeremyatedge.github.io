@@ -23,3 +23,5 @@ FPGA
 AI
 ======
 * Good Understanding of CNN - [URL](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* An excellent book about Reinforcement Learning (Chinese version) - [URL](https://datawhalechina.github.io/easy-rl/#/)
+* A blog focus on policy gradient in RL - [URL](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
