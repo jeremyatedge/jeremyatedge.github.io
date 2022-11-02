@@ -14,5 +14,5 @@ If you are interested in my research, feel free to contact me ^_^
 
 News
 ======
-* [2022.11] Learning materials block is initialized, including some useful learning resources.
-* [2022.11] Personal page is set up!
+* **[2022.11]** Learning materials block is initialized, including some useful learning resources.
+* **[2022.11]** Personal page is set up!
