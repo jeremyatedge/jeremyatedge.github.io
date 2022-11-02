@@ -19,9 +19,10 @@ FPGA
   * ug998 FPGA HLS      - [Download here](https://jeremyatedge.github.io/files/ug998-vivado-intro-fpga-design-hls.pdf)
   * ug1027 SDSoC guide  - [Download here](https://jeremyatedge.github.io/files/ug1027-sdsoc-user-guide.pdf)
   * ug1399 vitis HLS    - [Download here](https://jeremyatedge.github.io/files/ug1399-vitis-hls.pdf)
+* Efficient AI Seminars - [URL](https://www.youtube.com/channel/UCEKdqfnoyNSYB5bzWMT5SNQ/videos)
 
 AI
 ======
 * Good Understanding of CNN - [URL](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * An excellent book about Reinforcement Learning (Chinese version) - [URL](https://datawhalechina.github.io/easy-rl/#/)
-* A blog focus on policy gradient in RL - [URL](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
+* A blog focus on policy gradient in RL - [URL (English version)](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) [URL (Chinese version)](https://tomaxent.com/2019/04/14/%E7%AD%96%E7%95%A5%E6%A2%AF%E5%BA%A6%E6%96%B9%E6%B3%95/)
