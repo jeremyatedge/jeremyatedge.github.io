@@ -17,6 +17,7 @@ FPGA
   * ug871 HLS tutorial  - [Download here](https://jeremyatedge.github.io/files/ug871-vivado-high-level-synthesis-tutorial.pdf)
   * ug902 Vivado HLS    - [Download here](https://jeremyatedge.github.io/files/ug902-vivado-high-level-synthesis.pdf)
   * ug998 FPGA HLS      - [Download here](https://jeremyatedge.github.io/files/ug998-vivado-intro-fpga-design-hls.pdf)
+  * ug1027 SDSoC guide  - [Download here](https://jeremyatedge.github.io/files/ug1027-sdsoc-user-guide.pdf)
   * ug1399 vitis HLS    - [Download here](https://jeremyatedge.github.io/files/ug1399-vitis-hls.pdf)
 
 AI
