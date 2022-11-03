@@ -19,7 +19,7 @@ FPGA
   * ug998 FPGA HLS      - [Download here](https://jeremyatedge.github.io/files/ug998-vivado-intro-fpga-design-hls.pdf)
   * ug1027 SDSoC guide  - [Download here](https://jeremyatedge.github.io/files/ug1027-sdsoc-user-guide.pdf)
   * ug1399 vitis HLS    - [Download here](https://jeremyatedge.github.io/files/ug1399-vitis-hls.pdf)
-* Efficient AI Seminars - [URL](https://www.youtube.com/channel/UCEKdqfnoyNSYB5bzWMT5SNQ/videos)
+* Efficient AI Seminars - [URL (Youtube)](https://www.youtube.com/channel/UCEKdqfnoyNSYB5bzWMT5SNQ/videos), [URL (Google site)](https://sites.google.com/site/boyuaneecs/efficient-ai-seminar-talk?authuser=0)
 
 AI
 ======
