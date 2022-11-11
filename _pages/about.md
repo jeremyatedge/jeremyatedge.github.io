@@ -14,5 +14,6 @@ I am currently focus on adaptive scheduling on embedded devices using reinforcem
 
 News
 ======
+* **[2022.11]** Post several blogs on CSDN (in Chinese), see more details on [here](https://blog.csdn.net/jeremy0621).
 * **[2022.11]** Learning materials block is initialized, including some useful learning resources.
 * **[2022.11]** Personal page is set up!
