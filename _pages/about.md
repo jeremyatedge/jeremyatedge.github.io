@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey guys! Welcome to my personal website! I am curently a 3rd year Ph.D. student in the University of Nottingham Ningbo China (UNNC), My research interests are AI and adaptive scheduling in embedded (computing) systems, Reinforcement Learning. I will share research news and experiences in my page.
+Hey guys! Welcome to my personal website! I am curently a 3rd year Ph.D. student in the University of Nottingham Ningbo China (UNNC), My research interests are adaptive scheduling in embedded (computing) systems, Reinforcement Learning. I will share research news and experiences in my page.
 
-I am currently focusing on different AI(especially RL)-based adaptive scheduling policy on edge computing devices. If you are interested in my research, feel free to contact me.
+I am currently focusing on different AI(especially RL)-based adaptive scheduling policies on edge computing devices. If you are interested in my research, feel free to contact me.
 
 News
 ======
