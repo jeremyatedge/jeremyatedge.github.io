@@ -6,3 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+2024
+======
+* **[<font color=green>Journal</font>]** <u>Jingjin Li</u>, Weixiong Jiang, Yuting He, Qingyu Yang, Anqi Gao, Yajun Ha, Ender \"Ozcan, Ruibin Bai, Tianxiang Cui, Heng Yu, "Flexible invocation-based Deep Reinforcement Learning for DVFS Scheduling in Embedded Systems", _IEEE Transactions on Computers (IEEE TC)_
+* **[<font color=green>Journal</font>]** Fangcheng Guo, <u>Jingjin Li</u>, Chung Ket Thein, Anqi Gao, Jianfeng Ren, Chang Heon Lee, Jiawei Li, Tianxiang Cui, Heng Yu, "A Scenario-Customizable and Visual-Rendering Simulator for On-Vehicle Vibration Energy Harvesting", _Sustainable Computing: Informatics and Systems (SUSCOM)_
