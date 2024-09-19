@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeremy at Edge"
+title: "Jeremy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
