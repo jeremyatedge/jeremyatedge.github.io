@@ -15,7 +15,7 @@ I am currently focus on adaptive scheduling on embedded devices using reinforcem
 
 News
 ======
-* **[2024.09][<font color=green>Journal</font>]** Paper "**Flexible invocation-based Deep Reinforcement Learning for DVFS Scheduling in Embedded Systems**" is accepted by IEEE Trans. on Computers.
 * **[2024.09][<font color=green>Journal</font>]** Paper "**A Scenario-Customizable and Visual-Rendering Simulator for On-Vehicle Vibration Energy Harvesting**" is accepted by Sustainable Computing: Informatics and Systems.
+* **[2024.09][<font color=green>Journal</font>]** Paper "**Flexible invocation-based Deep Reinforcement Learning for DVFS Scheduling in Embedded Systems**" is accepted by IEEE Trans. on Computers.
 * **[2022.11][<font color=gray>Blog</font>]** Post several blogs on CSDN (in Chinese), see more details on [here](https://blog.csdn.net/jeremy0621).
 * **[2022.11]** Personal page is set up!
