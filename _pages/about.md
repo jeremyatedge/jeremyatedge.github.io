@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Jeremy"
+layout: archive
 excerpt: "About me"
 author_profile: true
 redirect_from: 
