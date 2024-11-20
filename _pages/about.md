@@ -15,6 +15,8 @@ I am currently focusing on different AI(especially RL)-based adaptive scheduling
 
 News
 ======
+* **[2024.11][<font color=blue>Conference</font>]** Paper "**De$^2$r: Unifying DVFS and Early-Exit for Continuous Embedded AI Inference via Reinforcement Learning**" is accepted by DATE 2025.
+* **[2024.11][<font color=green>Journal</font>]** Paper "**ALDII: Adaptive Learning-based Document Image Inpainting to enhance the handwritten Chinese character legibility of human and machine**" is accepted by Neurocomputing.
 * **[2024.09][<font color=green>Journal</font>]** Paper "**A Scenario-Customizable and Visual-Rendering Simulator for On-Vehicle Vibration Energy Harvesting**" is accepted by Sustainable Computing: Informatics and Systems.
 * **[2024.09][<font color=green>Journal</font>]** Paper "**Flexible invocation-based Deep Reinforcement Learning for DVFS Scheduling in Embedded Systems**" is accepted by IEEE Trans. on Computers.
 * **[2022.11][<font color=gray>Blog</font>]** Post several blogs on CSDN (in Chinese), see more details on [here](https://blog.csdn.net/jeremy0621).
