@@ -16,4 +16,4 @@ author_profile: true
 
 2022
 ======
-* **[<font color=blue>Conference</font>]** Yuting He, Jiahui Meng, Chang Heon Lee, Jianfeng Ren, <u>Jingjin Li</u>, Qingyu Yang, Liyu Cai, Heng Yu, "Efficient and Accurate Feature Extraction Using Local Density Detector", _Proceedings of the 5th International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2022)_
+* **[<font color=blue>Conference</font>]** Yuting He, Jiahui Meng, Chang Heon Lee, Jianfeng Ren, <u>Jingjin Li</u>, Qingyu Yang, Liyu Cai, Heng Yu, "Efficient and Accurate Feature Extraction Using Local Density Detector", _Proceedings of the 5th International Conference on Artificial Intelligence and Pattern Recognition (AIPR)_, 2022
