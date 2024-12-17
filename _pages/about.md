@@ -13,8 +13,8 @@ I am Jingjin (Jeremy), a 3rd year Ph.D. student in the [University of Nottingham
 
 Education
 ======
-* **2022/09 - now** University of Nottingham Ningbo China, Ph.D. in Computer Science. Supervisor: Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui.
-* **2018/09 - 2022/07** University of Nottingham Ningbo China, B.S. in Computer Science with Artificial Intelligence. Supervisor: Dr. Heng Yu.
+* **2022/09 - now:** University of Nottingham Ningbo China, Ph.D. in Computer Science. **Supervisor:** Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui.
+* **2018/09 - 2022/07:** University of Nottingham Ningbo China, B.S. in Computer Science with Artificial Intelligence. **Supervisor:** Dr. Heng Yu.
 
 News
 ======
