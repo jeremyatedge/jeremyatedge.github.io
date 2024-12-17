@@ -15,9 +15,9 @@ My research interests include AI in embedded systems, deep learning, and adaptiv
 
 Education
 ======
-* **2022/09 - now:** University of Nottingham Ningbo China, Ph.D. in Computer Science. <br/>
+* **2022/09 - now:** _University of Nottingham Ningbo China_, Ph.D. in Computer Science. <br/>
 **Supervisor:** Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui.
-* **2018/09 - 2022/07:** University of Nottingham Ningbo China, B.S. in Computer Science with Artificial Intelligence. <br/>
+* **2018/09 - 2022/07:** _University of Nottingham Ningbo China_, B.S. in Computer Science with Artificial Intelligence. <br/>
 **Supervisor:** Dr. Heng Yu.
 
 News
