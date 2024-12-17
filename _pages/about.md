@@ -9,14 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Jingjin (Jeremy), a 3rd year Ph.D. student in the [University of Nottingham Ningbo China (UNNC)](https://www.nottingham.edu.cn/en/index.aspx), 
-supervised by [Dr. Heng Yu](https://research.nottingham.edu.cn/en/persons/heng-yu)**(Lead Supervisor)**, [Prof. Ender Ozcan](https://people.cs.nott.ac.uk/pszeo/), and [Dr. Tianxiang Cui](https://research.nottingham.edu.cn/en/persons/tianxiang-cui). My research interests include AI in embedded systems, deep learning, and adaptive computing. 
+I am Jingjin (Jeremy), a 3rd year Ph.D. student in the [University of Nottingham Ningbo China (UNNC)](https://www.nottingham.edu.cn/en/index.aspx), <br/>
+supervised by [Dr. Heng Yu](https://research.nottingham.edu.cn/en/persons/heng-yu) (Lead Supervisor), [Prof. Ender Ozcan](https://people.cs.nott.ac.uk/pszeo/), and [Dr. Tianxiang Cui](https://research.nottingham.edu.cn/en/persons/tianxiang-cui). My research interests include AI in embedded systems, deep learning, and adaptive computing. 
 
 Education
 ======
-* **2022/09 - now:** University of Nottingham Ningbo China, Ph.D. in Computer Science.
+* **2022/09 - now:** University of Nottingham Ningbo China, Ph.D. in Computer Science. <br/>
 **Supervisor:** Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui.
-* **2018/09 - 2022/07:** University of Nottingham Ningbo China, B.S. in Computer Science with Artificial Intelligence. **Supervisor:** Dr. Heng Yu.
+* **2018/09 - 2022/07:** University of Nottingham Ningbo China, B.S. in Computer Science with Artificial Intelligence. <br/>
+**Supervisor:** Dr. Heng Yu.
 
 News
 ======
