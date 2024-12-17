@@ -86,7 +86,7 @@ author:
   location         : "Ningbo, Zhejiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=--gMvG4AAAAJ&hl=en
   email            : jingji.li@nottingham.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jeremyatedge"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
