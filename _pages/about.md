@@ -2,7 +2,6 @@
 permalink: /
 title: "About Me"
 layout: archive
-excerpt: "Embedded AI and adaptive computing researcher."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +10,6 @@ redirect_from:
 
 <div class="home-shell">
   <section class="hero-panel">
-    <p class="hero-panel__eyebrow">EMBEDDED AI · ADAPTIVE COMPUTING · REINFORCEMENT LEARNING</p>
-    <h2 class="hero-panel__title">Jingjin (Jeremy) Li · 李京津</h2>
     <p class="hero-panel__lead">
       I am a Ph.D. student at
       <a href="https://www.nottingham.edu.cn/en/index.aspx">University of Nottingham Ningbo China (UNNC)</a>.
@@ -25,21 +22,21 @@ redirect_from:
       <a href="https://people.cs.nott.ac.uk/pszeo/">Prof. Ender Ozcan</a>,
       <a href="https://research.nottingham.edu.cn/en/persons/tianxiang-cui">Dr. Tianxiang Cui</a>
     </p>
-    <div class="hero-panel__cta">
-      <a class="btn btn--info hero-panel__btn" href="https://scholar.google.com/citations?user=--gMvG4AAAAJ&hl=en">Google Scholar</a>
-      <a class="btn btn--success hero-panel__btn" href="mailto:jingji.li@nottingham.edu.cn">Contact Me</a>
-      <a class="btn btn--inverse hero-panel__btn" href="https://orcid.org/0000-0001-7248-5180">ORCID</a>
-    </div>
   </section>
 
   <section class="home-block">
-    <h3>Research Focus</h3>
-    <div class="focus-tags">
-      <span class="focus-tag">Edge AI Systems</span>
-      <span class="focus-tag">DVFS + RL Co-Optimization</span>
-      <span class="focus-tag">Early-Exit Inference</span>
-      <span class="focus-tag">Embedded Deep Learning</span>
-      <span class="focus-tag">FPGA-Aware Learning</span>
+    <h3>Education</h3>
+    <div class="edu-list">
+      <article class="edu-item">
+        <p class="edu-item__date">2022.09 - Present</p>
+        <p class="edu-item__title">Ph.D. in Computer Science, University of Nottingham Ningbo China</p>
+        <p class="edu-item__detail">Supervisors: Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui</p>
+      </article>
+      <article class="edu-item">
+        <p class="edu-item__date">2018.09 - 2022.07</p>
+        <p class="edu-item__title">B.S. in Computer Science with Artificial Intelligence, University of Nottingham Ningbo China</p>
+        <p class="edu-item__detail">Supervisor: Dr. Heng Yu</p>
+      </article>
     </div>
   </section>
 
@@ -53,7 +50,7 @@ redirect_from:
       </article>
 
       <article class="paper-card">
-        <p class="paper-card__meta"><span class="paper-card__type paper-card__type--conference">Conference</span><span>2024.11 · DATE 2025</span></p>
+        <p class="paper-card__meta"><span class="paper-card__type paper-card__type--conference">Conference</span><span>2024.11 · DATE</span></p>
         <h4><a href="https://ieeexplore.ieee.org/abstract/document/10992707">De$^2$r: Unifying DVFS and Early-Exit for Continuous Embedded AI Inference via Reinforcement Learning</a></h4>
         <p>Yuting He, <strong>Jingjin Li</strong>, Chengtai Li, Qingyu Yang, Zheng Wang, Heshan Du, Jianfeng Ren, Heng Yu.</p>
       </article>
@@ -73,28 +70,10 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-block">
-    <h3>Education</h3>
-    <div class="edu-list">
-      <article class="edu-item">
-        <p class="edu-item__date">2022.09 - Present</p>
-        <p class="edu-item__title">Ph.D. in Computer Science, University of Nottingham Ningbo China</p>
-        <p class="edu-item__detail">Supervisors: Dr. Heng Yu, Prof. Ender Ozcan, Dr. Tianxiang Cui</p>
-      </article>
-      <article class="edu-item">
-        <p class="edu-item__date">2018.09 - 2022.07</p>
-        <p class="edu-item__title">B.S. in Computer Science with Artificial Intelligence, University of Nottingham Ningbo China</p>
-        <p class="edu-item__detail">Supervisor: Dr. Heng Yu</p>
-      </article>
-    </div>
-  </section>
-
   <section class="home-block home-block--cta">
     <h3>Open to Collaboration</h3>
-    <p>I am interested in research collaboration on edge intelligence, adaptive scheduling, and hardware/software co-design.</p>
+    <p>I am interested in research collaboration on embedded intelligence, design/runtime scheduling of the AI system, and hardware/software co-design.</p>
     <div class="hero-panel__cta">
-      <a class="btn btn--info hero-panel__btn" href="mailto:jingji.li@nottingham.edu.cn">Email</a>
-      <a class="btn btn--inverse hero-panel__btn" href="https://www.linkedin.com/in/jeremyli0621">LinkedIn</a>
       <a class="btn btn--success hero-panel__btn" href="https://blog.csdn.net/jeremy0621">Technical Blog (CSDN)</a>
     </div>
   </section>

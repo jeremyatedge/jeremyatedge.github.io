@@ -73,7 +73,7 @@ zh-CN: &DEFAULT_ZH_CN
   feed_label                 : "订阅"
   powered_by                 : "由以下技术驱动"
   website_label              : "主页"
-  email_label                : "邮箱"
+  email_label                : "Email"
   recent_posts               : "最新文章"
   undefined_wpm              : "_config.yml 未定义 words_per_minute 参数"
   comment_form_info          : "你的邮箱不会公开。必填项已标注。"
