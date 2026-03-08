@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="home-shell">
-  <section class="hero-panel">
+  <section class="home-block">
    <h3>About Me</h3>
     <p class="hero-panel__lead">
       I am currently a Ph.D. student at
