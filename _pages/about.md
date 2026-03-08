@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+# title: "About Me"
 layout: archive
 author_profile: true
 redirect_from: 
@@ -10,11 +10,11 @@ redirect_from:
 
 <div class="home-shell">
   <section class="hero-panel">
+   <h3>About Me</h3>
     <p class="hero-panel__lead">
-      I am a Ph.D. student at
+      I am currently a Ph.D. student at
       <a href="https://www.nottingham.edu.cn/en/index.aspx">University of Nottingham Ningbo China (UNNC)</a>.
-      My work focuses on efficient AI for embedded systems, including learning-based runtime optimization of the AI applications,
-      and hardware-aware optimization for embedded platforms.
+      My work focuses on embedded AI, including learning-based design-time or runtime optimization of the AI applications, software and hardware co-optimization for embedded platforms, etc.
     </p>
     <p class="hero-panel__meta">
       Supervisors:
@@ -72,9 +72,9 @@ redirect_from:
 
   <section class="home-block home-block--cta">
     <h3>Open to Collaboration</h3>
-    <p>I am interested in research collaboration on embedded intelligence, design/runtime scheduling of the AI system, and hardware/software co-design.</p>
+    <p>I am interested in research collaboration on design/runtime optimization of the AI system, hardware/software co-design, AI-driven EDA, etc.</p>
     <div class="hero-panel__cta">
-      <a class="btn btn--success hero-panel__btn" href="https://blog.csdn.net/jeremy0621">Technical Blog (CSDN)</a>
+      <a class="btn btn--success hero-panel__btn" href="https://blog.csdn.net/jeremy0621">Technical Blog (CSDN, Chinese)</a>
     </div>
   </section>
 </div>
