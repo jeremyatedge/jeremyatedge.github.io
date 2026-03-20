@@ -14,7 +14,7 @@ redirect_from:
     <p class="hero-panel__lead">
       I am currently a Ph.D. student at
       <a href="https://www.nottingham.edu.cn/en/index.aspx">University of Nottingham Ningbo China (UNNC)</a>.
-      My work focuses on embedded AI, including learning-based design-time or runtime optimization of the AI applications, software and hardware co-optimization for embedded platforms, etc. See my full publication list on <a href="https://scholar.google.com/citations?user=--gMvG4AAAAJ&hl=en">Google Scholar</a>.
+      My research focuses on embedded AI and power-aware system, specifically, including learning-based design-time or runtime optimization of the AI applications, software and hardware co-optimization for embedded platforms, etc. See my full publication list on <a href="https://scholar.google.com/citations?user=--gMvG4AAAAJ&hl=en">Google Scholar</a>.
     </p>
     <p class="hero-panel__meta">
       Supervisors:
