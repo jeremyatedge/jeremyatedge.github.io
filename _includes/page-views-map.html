@@ -1,0 +1,33 @@
+<!-- Global Page Views Map -->
+{% if site.pageviews_map %}
+  <div class="page-views-map">
+    <h3 style="margin-top: 2em; margin-bottom: 0.5em;">{{ site.pageviews_map.title | default: "Global Visitors" }}</h3>
+    
+    {% if site.pageviews_map.provider == "clustrmaps" and site.pageviews_map.clustrmaps_id %}
+      <!-- Clustrmaps Integration -->
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.pageviews_map.clustrmaps_id }}&t=n&z=d&ref={{site.url}}" async></script>
+      <style>
+        .page-views-map {
+          text-align: center;
+          margin: 1.5em 0;
+        }
+        .page-views-map h3 {
+          font-size: 0.85em;
+          font-weight: 600;
+        }
+      </style>
+    {% elsif site.pageviews_map.provider == "statcounter" and site.pageviews_map.statcounter_id %}
+      <!-- StatCounter Integration -->
+      <div class="page-views-map" style="text-align: center; margin: 1.5em 0;">
+        <a href="https://statcounter.com/p{{ site.pageviews_map.statcounter_id }}/" target="_blank">
+          <img src="https://statcounter.com/chart.php?mobile_region={{ site.pageviews_map.statcounter_id }}" alt="Map" style="max-width: 100%; height: auto;" />
+        </a>
+      </div>
+    {% elsif site.pageviews_map.custom_html %}
+      <!-- Custom HTML Integration -->
+      <div class="page-views-map">
+        {{ site.pageviews_map.custom_html }}
+      </div>
+    {% endif %}
+  </div>
+{% endif %}
