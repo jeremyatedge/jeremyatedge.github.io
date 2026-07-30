@@ -4,24 +4,24 @@
 
 ## 支持的服务
 
-### 1. **Clustrmaps** （推荐 - 最简单）
+### 1. **MapMyVisitors**（推荐）
 
-Clustrmaps 提供实时世界地图热力图，显示访问者的地理位置。
+ClustrMaps 在 2026 年已经无法访问，原来的访客数据也不能直接迁移。当前页面已改为支持 MapMyVisitors，它提供相近的实时世界访客地图。
 
 **设置步骤：**
 
-1. 访问 https://clustrmaps.com
-2. 点击 "Get Code" 并注册账号
-3. 添加你的网站：https://jeremyatedge.github.io
-4. 拷贝 URL 中的 ID（格式如：`abc123def456`）
+1. 访问 https://mapmyvisitors.com/add
+2. 添加网站 `https://jeremyatedge.github.io/` 并注册账号
+3. 复制生成的嵌入代码
+4. 找到嵌入代码里 `d=` 后面的 ID
 5. 在 `_config.yml` 中更新配置：
 
 ```yaml
 pageviews_map:
   enable                 : true
-  provider               : "clustrmaps"
+  provider               : "mapmyvisitors"
   title                  : "Global Visitors"
-  clustrmaps_id          : "your_clustrmaps_id"
+  mapmyvisitors_id       : "your_mapmyvisitors_id"
 ```
 
 ### 2. **StatCounter**
@@ -51,11 +51,9 @@ pageviews_map:
   custom_html            : '<script src="..."></script>'
 ```
 
-## 其他推荐服务
+## 其他可选服务
 
 - **Flag Counter**：https://flagcounter.com - 简单的国旗计数器
-- **Visitor Map**：https://www.revolvermaps.com - 实时访客地球仪
-- **StatsFy**：https://www.statsfy.com - 轻量级统计
 
 ## 修改的文件
 
@@ -68,26 +66,7 @@ pageviews_map:
 3. **[_config.yml](_config.yml)** - 已修改
    - 添加了 `pageviews_map` 配置部分
 
-## 外观美化建议
-
-如果你想调整样式（如圆形边框、阴影等），可以在 `_sass/_sidebar.scss` 中添加 CSS：
-
-```css
-.page-views-map {
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 1em;
-  margin: 1.5em 0;
-  background: #f9f9f9;
-  text-align: center;
-}
-
-.page-views-map h3 {
-  margin-top: 0;
-  margin-bottom: 0.5em;
-  font-size: 0.95em;
-}
-```
+地图样式位于 `_sass/_sidebar.scss`，已经与当前的简约页面统一。
 
 ## 测试
 
@@ -100,4 +79,4 @@ pageviews_map:
 
 ---
 
-**下一步：** 选择一个服务，获取 ID，然后更新 `_config.yml` 中的配置即可！
+**下一步：** 获取 MapMyVisitors ID，并更新 `_config.yml` 中的 `mapmyvisitors_id`。

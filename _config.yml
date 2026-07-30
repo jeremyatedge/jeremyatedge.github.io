@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Jeremy Li"
 title_separator          : "-"
-name                     : &name "Jingjin (Jeremy) Li"
+name                     : &name "Jingjin Li"
 description              : &description "Ph.D. student at UNNC"
 url                      : https://jeremyatedge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,19 +78,21 @@ analytics:
     tracking_id          :
 
 # Page Views Map (Global Visitors)
-# Enable by setting provider to "clustrmaps" or "statcounter" or providing custom_html
+# ClustrMaps became unavailable in 2026. Create a replacement widget at
+# https://mapmyvisitors.com/add, then paste the value after `d=` below.
 pageviews_map:
   enable                 : true
-  provider               : "clustrmaps"  # Options: "clustrmaps", "statcounter", or leave empty for custom_html
+  provider               : "mapmyvisitors"  # Options: "mapmyvisitors", "clustrmaps", "statcounter", or custom_html
   title                  : "Global Visitors"
-  clustrmaps_id          : "VZ-gQh0qlvoDLnm4Df6eCg3JnvVtvVp4mvw6jFcknkk"  # Get your ID from https://clustrmaps.com - format: "xxxxx"
+  mapmyvisitors_id       : "bPQuo22fpLnxl0nU9tBqDqGsXuiia7Q4eP8gaURXneA"
+  clustrmaps_id          : "VZ-gQh0qlvoDLnm4Df6eCg3JnvVtvVp4mvw6jFcknkk"  # Archived; the service is currently unavailable
   statcounter_id         : ""  # StatCounter project ID
   custom_html            :    # Custom HTML/JS for other services
 
 
 # Site Author
 author:
-  name             : "Jingjin (Jeremy) Li"
+  name             : "Jingjin Li"
   avatar           : "profile.png"
   bio              : "Ph.D. student at University of Nottingham Ningbo China (UNNC) | Embedded AI | Power-aware Systems."
   location         : "Ningbo, Zhejiang, China"

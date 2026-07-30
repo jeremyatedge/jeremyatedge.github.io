@@ -1,10 +1,5 @@
-# main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
-        
-  # - title: "Learning Materials"
-  #   url: /materials/
-    
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Introduction"
+    url: "/#about-me"
+  - title: "Publications"
+    url: "/#selected-publications"
